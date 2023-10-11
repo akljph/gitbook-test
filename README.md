@@ -4,9 +4,7 @@ coverY: 0
 layout: landing
 ---
 
-# 🎉 Welcome
-
-## Fight Secret Sprawl
+# 💪 Fight Secret Sprawl
 
 Protect and automate access to secrets like credentials, keys, tokens, and API Keys across your DevOps tools and cloud platforms in a unified secrets management platform.
 

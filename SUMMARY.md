@@ -1,3 +1,3 @@
 # Table of contents
 
-* [🎉 Welcome](README.md)
+* [💪 Fight Secret Sprawl](README.md)
